@@ -24,15 +24,5 @@ The repository aims to:
 
 > ⚠️ Note: The NE subsystem is modeled from a geographical perspective, which differs from the operational boundaries used by Brazil's National System Operator (ONS). While current operations do not exhibit the frequency issues discussed, the benchmark highlights potential future risks and the need for proactive solutions.
 
-## References
-
-1. CEPEL ANAREDE User Manual  
-2. CEPEL ANATEM User Manual  
-3. CEPEL PACDYN User Manual  
-4. ABEEólica, 2022 – Brazilian Wind Energy Association  
-5. EPE, 2022 – Energy Research Company, PDE 2032
-
----
-
 ## License  
 This repository is released under the **MIT License**. 
