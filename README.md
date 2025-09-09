@@ -8,11 +8,17 @@ The NE subsystem of the BIPS is notable for its large-scale integration of renew
 
 This evolving energy landscape raises concerns about **frequency stability**, **system inertia**, and **primary frequency control**, especially during contingency events. The NE230 Benchmark System provides a geographically-based model of the NE subsystem to explore these challenges and evaluate potential solutions.
 
-## Tools Used
+## Tools Used (Currently Available)
 
-- **ANAREDE** – Network analysis software by CEPEL
-- **ANATEM** – Electromechanical transient analysis software by CEPEL
-- **PACDYN** – Small-signal stability analysis software by CEPEL
+The following tools from CEPEL are currently available for system analysis:
+
+- **ANAREDE** – Network analysis software by CEPEL  
+- **ANATEM** – Electromechanical transient analysis software by CEPEL  
+- **PACDYN** – Small-signal stability analysis software by CEPEL  
+
+> *Note: Further implementations such as PSS/E, POWERFACTORY, and EMTP are not currently available.*
+
+
 
 ## Purpose
 
